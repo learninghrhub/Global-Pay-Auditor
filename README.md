@@ -1,4 +1,4 @@
-# Pay Equity Auditor
+# Global Pay Auditor
 
 Streamlit-based compensation diagnostics dashboard with validation, peer benchmarking, pay-gap analysis, outlier detection, and export support.
 
