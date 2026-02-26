@@ -43,7 +43,7 @@ RED = "#B91C1C"
 # ----------------------------
 # Page config + styling
 # ----------------------------
-st.set_page_config(page_title="Pay Equity Auditor", layout="wide")
+st.set_page_config(page_title="Global Pay Auditor", layout="wide")
 st.markdown(
     f"""
     <style>
