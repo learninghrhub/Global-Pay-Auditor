@@ -1,1 +1,1 @@
-"""Core package for the Pay Equity Auditor app."""
+"""Core package for the Global Pay Auditor app."""
