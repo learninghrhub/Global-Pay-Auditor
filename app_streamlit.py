@@ -428,7 +428,7 @@ st.markdown(
     f"""
     <div class="brand-shell">
         <div class="brand-kicker">Consulting-grade compensation analytics</div>
-        <div class="brand-title">Pay Equity Auditor</div>
+        <div class="brand-title">Global Pay Auditor</div>
         <div class="brand-subtitle">A premium decision platform for compensation consultants and HR leaders — built to validate market-ready datasets, benchmark employee pay against comparable peers, surface inequity hotspots, and package findings into client-ready outputs.</div>
         <div class="hero-actions">
             <span class="hero-chip">Brand palette: {PRIMARY}</span>
